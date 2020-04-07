@@ -15,4 +15,3 @@ This project is licensed under the terms of the MIT license
 Changelog
 
 *0.01
-Aggiornati testi, aggiornate le impostazioni di gestione dei file
