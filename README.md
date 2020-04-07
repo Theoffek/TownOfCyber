@@ -3,6 +3,11 @@ A Game for my project for cyber studies (5 points)
 
 This project is licensed under the terms of the MIT license
 
+## Project setup
+```
+npm install
+```
+
 # How to run:
 1.) Download the project and uzip or clone with github
 # 
