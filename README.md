@@ -11,7 +11,6 @@ This project is licensed under the terms of the MIT license
     and then use the custom command "npm run start"
 #
 3.) Run using the command "npm run start"
-
 #
 Changelog
 
