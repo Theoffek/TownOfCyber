@@ -10,7 +10,7 @@
         "dev": "nodemon server"
     },
     "dependencies": {
-        "aws-amplify": "^2.3.0",
+        "aws-amplify": "^5.3.3",
         "aws-amplify-vue": "^0.2.12-beta.0",
         "core-js": "^3.6.4",
         "express": "^4.17.1",
